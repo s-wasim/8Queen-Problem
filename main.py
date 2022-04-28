@@ -116,7 +116,7 @@ population_size = int(1000)
 advance_generation = int(200)
 mutated_generation = int(400)
 crossover_generation = int(400)
-max_generations = int(1000)
+max_generations = int(100)
 
 # generating a random population
 n_generation = []
